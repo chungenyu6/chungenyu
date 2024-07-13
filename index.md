@@ -8,5 +8,6 @@ title: Your Page Title
 This is a work in progress.
 
 ## Navigation
-- [About](about.md)
+- [About](/About/about.md)
+- [Blog](/Blog/blog.md)
 - [Projects](projects.md)
